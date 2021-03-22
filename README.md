@@ -1,2 +1,2 @@
 # Wheel_of_Python
-Nice to play  😃 coded with Python
+Funny game to play  😃 coded with Python. Enjoy 😜
